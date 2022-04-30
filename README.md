@@ -1,4 +1,3 @@
-Шаблон для 2-гої роботи з архітектури ПЗ
+2 робота з архітектури ПЗ
 ---
-
-Використайте кнопку **"Use this template"**, щоб створити власний репозиторій.
+https://kpi-architecture-course.appspot.com/lectures/practice-2.pdf
