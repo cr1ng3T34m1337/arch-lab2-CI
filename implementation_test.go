@@ -25,7 +25,7 @@ func TestPrefixEvaluate(t *testing.T) {
 	if assert.Nil(err) {
 		assert.Equal(31.0, res)
 	}
-	res, err = PrefixEvaluate("- + 0 + ^ 3 3 - 10 ^ 2 3 - ^ 2 4 + 3 + 5")
+	res, err = PrefixEvaluate("- + 0 + ^ 3 3 - 10 ^ 2 3 + ^ 2 4 + 3 - 5")
 	if assert.Nil(err) {
 		assert.Equal(15.0, res)
 	}
